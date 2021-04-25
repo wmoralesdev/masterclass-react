@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "outDir": "archivos-compilados",
+        "removeComments": false
+    },
+    "files": [ 
+        "main.ts",
+        "index.ts"
+    ]
+}
